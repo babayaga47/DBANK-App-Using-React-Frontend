@@ -3,7 +3,11 @@
 
 You must have dfx installed in your local environment!!!
 
+At start in Terminal
+ ```
+npm i
 
+```
 
 1. start local dfx
 
